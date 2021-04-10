@@ -40,6 +40,7 @@ Udemy:
 
 * HTML/CSS(SCSS)
     * [Shelter]() responsive app for pet shelter. + JS - slider, popup.
+    * [Design Thinking](https://github.com/IrenaKowalewska/design-thinking) responsive site +JS burger-menu, slider.
     * [WebDev]() non-responsive site about web development.
 
 ### My hobbies (inerests):
