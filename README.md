@@ -28,12 +28,14 @@ Udemy:
 [Web-разработчик 2020](https://www.udemy.com/certificate/UC-f446eab4-ae83-4f59-b277-209f5b4f84d0/)
 
 ### My projects:
+* React (Redux):
+    *  [travel app](https://github.com/IrenaKowalewska/travel-app) app for tracking the spread of COVID-19 in the world and in selected countries. Information is presented in the form of a table, list, graph and interactive map.
 * JavaScript (+ HTML/CSS(SCSS)):
     * [covid dashboard](https://github.com/IrenaKowalewska/covid-2019-dashboard) app for tracking the spread of COVID-19 in the world and in selected countries. Information is presented in the form of a table, list, graph and interactive map.
     * [english for kids](https://github.com/IrenaKowalewska/english-for-kids) app for learning English words for kids (SPA routing).
     * [gem-puzzle](https://github.com/IrenaKowalewska/gem-puzzle) implementation of the classic Gem-puzzle.
     * [virtual-keyboard]() virtual keyboard.
-    * [momentum]() shows the time and username, his goal for the current day. The background image changes depending on the time of day. The application uses local storage to store data.
+    * [momentum](https://github.com/IrenaKowalewska/momentum/blob/main/README.md) shows the time and username, his goal for the current day. The background image changes depending on the time of day. The application uses local storage to store data.
     * [calculator]().
 
 * HTML/CSS(SCSS)
