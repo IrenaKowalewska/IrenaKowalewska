@@ -34,7 +34,7 @@
     * [covid dashboard](https://github.com/IrenaKowalewska/covid-2019-dashboard) app for tracking the spread of COVID-19 in the world and in selected countries. Information is presented in the form of a table, list, graph and interactive map.
     * [english for kids](https://github.com/IrenaKowalewska/english-for-kids) app for learning English words for kids (SPA routing).
     * [gem-puzzle](https://github.com/IrenaKowalewska/gem-puzzle) implementation of the classic Gem-puzzle.
-    * [virtual-keyboard](https://github.com/IrenaKowalewska/virtual-keyboard) virtual keyboard.
+    * [virtual-keyboard](https://github.com/IrenaKowalewska/virtual-keyboard).
     * [momentum](https://github.com/IrenaKowalewska/momentum/blob/main/README.md) shows the time and username, his goal for the current day. The background image changes depending on the time of day. The application uses local storage to store data.
     * [calculator](https://github.com/IrenaKowalewska/calculator).
 
