@@ -4,7 +4,7 @@
 
 ### My contacts:
 * _[e-mail](zkioz4004@gmail.com);_
-* _Telegramm: @Irjane;_
+* _Telegram: @Irjane;_
 
 ### Check my website: [my portfolio](https://irenakowalewska-portfolio.netlify.app)
 
