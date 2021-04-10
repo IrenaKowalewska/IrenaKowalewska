@@ -1,5 +1,5 @@
 ### Hi there 👋
-# My name is **IRYNA KAVALEUSKAYA**!
+# My name is **Iryna Kavaleuskaya**!
 ## I'm a beginner *Front-end developer* from Minsk.
 
 ### My contacts:
