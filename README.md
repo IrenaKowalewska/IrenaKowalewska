@@ -22,9 +22,9 @@
 ![WebPack](https://img.shields.io/badge/-WebPack-333333?style=flat&logo=WebPack)&nbsp;
 
 ### My cerificates
-Rolling Scope School (RSSchool):
+* Rolling Scope School (RSSchool):
 [FE/JS 2020 Q3](https://app.rs.school/certificate/0n8v93bq)
-Udemy:
+* Udemy:
 [Web-разработчик 2020](https://www.udemy.com/certificate/UC-f446eab4-ae83-4f59-b277-209f5b4f84d0/)
 
 ### My projects:
