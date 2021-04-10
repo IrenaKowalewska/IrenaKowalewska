@@ -36,7 +36,7 @@ Udemy:
     * [gem-puzzle](https://github.com/IrenaKowalewska/gem-puzzle) implementation of the classic Gem-puzzle.
     * [virtual-keyboard]() virtual keyboard.
     * [momentum](https://github.com/IrenaKowalewska/momentum/blob/main/README.md) shows the time and username, his goal for the current day. The background image changes depending on the time of day. The application uses local storage to store data.
-    * [calculator]().
+    * [calculator](https://github.com/IrenaKowalewska/calculator).
 
 * HTML/CSS(SCSS)
     * [Shelter]() responsive app for pet shelter. + JS - slider, popup.
