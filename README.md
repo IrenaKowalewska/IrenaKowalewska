@@ -26,6 +26,9 @@
 [FE/JS 2020 Q3](https://app.rs.school/certificate/0n8v93bq)
 * Udemy:
 [Web-разработчик 2020](https://www.udemy.com/certificate/UC-f446eab4-ae83-4f59-b277-209f5b4f84d0/)
+[React для начинающих](https://www.udemy.com/certificate/UC-75a1355b-6576-4230-af79-47a3404584c9/)
+* LeverX Group: 
+[Frontend development with SAPUI5](https://drive.google.com/file/d/12BwytNkH5EMmcicBNAZQmAliQZV1yzBZ/view?usp=sharing)
 
 ### My projects:
 * React (Redux):
