@@ -34,6 +34,7 @@
 ### My projects:
 * React (Redux):
     *  [travel app](https://github.com/IrenaKowalewska/travel-app) app to find information about popular tourist destinations
+    *  [react-shop app](https://irenakowalewska.github.io/react-shop/) app to find goods
 * JavaScript (+ HTML/CSS(SCSS)):
     * [covid dashboard](https://github.com/IrenaKowalewska/covid-2019-dashboard) app for tracking the spread of COVID-19 in the world and in selected countries. Information is presented in the form of a table, list, graph and interactive map.
     * [english for kids](https://github.com/IrenaKowalewska/english-for-kids) app for learning English words for kids (SPA routing).
