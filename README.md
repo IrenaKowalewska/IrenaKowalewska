@@ -51,5 +51,5 @@
 * Read books (science fiction, detective novels, technical literature);
 * Play checkers;
 * Travels;
-* Speak with people from other countries in English;
+* Speak to people from other countries in English;
 * Sport;
