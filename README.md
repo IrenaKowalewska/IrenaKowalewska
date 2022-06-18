@@ -1,6 +1,6 @@
 ### Hi there 👋
 # My name is **Iryna Kavaleuskaya**!
-## I'm a beginner *Front-end developer* from Minsk.
+## I'm a *Front-end developer*.
 
 ### My contacts:
 * _[e-mail](zkioz4004@gmail.com);_
